@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "200884617668",
+    "firebase_url": "https://livewow-6aaea.firebaseio.com",
+    "project_id": "livewow-6aaea",
+    "storage_bucket": "livewow-6aaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200884617668:android:243889534d1d4847",
+        "android_client_info": {
+          "package_name": "com.example.christian.livewow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200884617668-mtl2o9cvq7q7d68oaacr11ibjvdlvqrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.christian.livewow",
+            "certificate_hash": "58b5a63ac1dfc43748287f091ff669b742887660"
+          }
+        },
+        {
+          "client_id": "200884617668-dq15orh4c95crrakkca56vm7odqfu3fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1Aa5ALvP3G0w-02tR98axRUUCPjU5bI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200884617668-dq15orh4c95crrakkca56vm7odqfu3fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

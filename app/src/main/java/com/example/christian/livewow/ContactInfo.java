@@ -1,4 +1,4 @@
-package com.company;
+package com.example.christian.livewow;
 
 public class ContactInfo {
     //Constructors
